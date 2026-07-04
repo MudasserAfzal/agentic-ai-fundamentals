@@ -50,4 +50,4 @@ LangGraph variant of Phase 4: [`langchain/multi_agent_langgraph.py`](langchain/m
 ## Other projects
 
 - [**VerifAI**](verifAI/README.md) — AI hallucination detector (LangGraph + FastAPI + web UI)
-- `langchain/week1.py` → `week3_reducer.py` — verification pipeline leading to VerifAI
+- [**CodingAgent**](coding-agent/README.md) — AI coding assistant for automatic error correction (LangGraph + FastAPI)
